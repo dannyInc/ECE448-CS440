@@ -1,5 +1,6 @@
 # ECE448-CS440 #
-MP's for Artificial Intelligence taken at UIUC in Fall 2020
+MP's for Artificial Intelligence taken at UIUC in Fall 2020 <br />
+Lecturer: Prof. Margaret Fleck
 
 ## DO NOT COPY. Only for reference ##
 
